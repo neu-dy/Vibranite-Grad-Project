@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f0e69805f2a9f6040bd8d848937ce993
+timeCreated: 1544998323
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143825
+  packageName: Atmospheric Height Fog | Optimized Fog for Consoles, Mobile and VR
+  packageVersion: 4.2.0
+  assetPath: Assets/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledRemapSliderDrawer.cs
+  uploadId: 1016440

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8023d2ae1fcb2948a39527720c2087b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {fileID: 2800000, guid: db7bf9b3d12f05c4fa487b55598561b5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 143825
+  packageName: Atmospheric Height Fog | Optimized Fog for Consoles, Mobile and VR
+  packageVersion: 4.2.0
+  assetPath: Assets/BOXOPHOBIC/Atmospheric Height Fog/Core/Runtime/HeightFogGlobal.cs
+  uploadId: 1016440
